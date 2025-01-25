@@ -1,6 +1,6 @@
-# React Background Color Changer
+ # React Background Color Changer
 
-A simple React.js project that allows users to change the background color of a webpage. Users can navigate forward and backward through a predefined list of colors.
+A simple React.js project that allows users to change the background  color of a webpage. Users can navigate forward and backward through a predefined list of colors.
 
 ## Features
 
