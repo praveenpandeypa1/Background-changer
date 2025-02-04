@@ -10,7 +10,7 @@ A simple React.js project that allows users to change the background  color of a
 - **React Hooks**: Uses `useState` for state management.  
     
 ## Technologies Used
-
+    
 - **React.js** (v18+)
 - **JavaScript (ES6+)**
 - **CSS**
