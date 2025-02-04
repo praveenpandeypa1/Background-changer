@@ -8,7 +8,7 @@ A simple React.js project that allows users to change the background  color of a
 - **Forward and Backward Navigation**: Move through colors in both directions.
 - **Responsive Design**: Works on all screen sizes.    
 - **React Hooks**: Uses `useState` for state management.  
-    
+        
 ## Technologies Used
     
 - **React.js** (v18+)
